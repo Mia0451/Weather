@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="location_permission_rationale">Grant location permission helps show weather data for your current location</string>
+    <string name="cancel">Cancel</string>
+    <string name="grant_permission">Grant permission</string>
+
+    <string name="city_hint">City</string>
+    <string name="country_hint">Country code</string>
+    <string name="state_hint">State</string>
+    <string name="zip_code_hint">Zip code</string>
+
+    <string name="something_wrong">Something wrong!</string>
+    <string name="weather_data_is_not_available">Weather data is not available for the region!</string>
+
+    <string name="search">Search</string>
+    <string name="history_cleared">Search history cleared!</string>
+    <string name="build_version">Build version: %s</string>
+    <string name="clear_history">Clear history</string>
+    <string name="missing_location_details">Please provide more details about the location!</string>
+    <string name="city_already_exist">City already exist, please swipe to find the city page!</string>
+
+    <string name="humidity">Humidity: </string>
+    <string name="wind">Wind: </string>
+    <string name="pressure">Pressure: </string>
+    <string name="sunrise">Sunrise: </string>
+    <string name="sunset">Sunset: </string>
+</resources>
